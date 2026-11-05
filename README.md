@@ -42,7 +42,7 @@ A project focused on detecting rice plant diseases.
 
 **Tech:** Flutter, TensorFlow Lite
 
-[View Repository](https://github.com/SinoriaViole/TA_DeteksiPenyakitPadi)
+[View Repository](https://github.com/SinoriaViole/Tugas_akhir_Deteksi_penyakit_padi)
 
 ### 🧾 POS Laravel
 A point-of-sale application project.
